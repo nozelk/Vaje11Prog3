@@ -1,0 +1,16 @@
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\bin\Debug\test.exe.config
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\bin\Debug\test.exe
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\bin\Debug\test.pdb
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\bin\Debug\EntityFramework.dll
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\bin\Debug\System.Data.SQLite.dll
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\bin\Debug\EntityFramework.xml
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\bin\Debug\System.Data.SQLite.xml
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\obj\Debug\test.csproj.Up2Date
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\obj\Debug\test.exe
+C:\Users\kosmr\Desktop\CSharp\Vaje11\test\obj\Debug\test.pdb
